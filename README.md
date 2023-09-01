@@ -6,8 +6,11 @@ The UW-Madison Carbone Cancer Center is a pioneer in MR-Linac based radiotherapy
 In this competition, we have to create a model to automatically segment the stomach and intestines on MRI scans. The MRI scans are from actual cancer patients who had 1-5 MRI scans on separate days during their radiation treatment. The Model will help cancer patients get better care.
 - Challenge Link: https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation
 - My Preprocessing notebooks published on Kaggle:
- ⚕️UW-Madison_01[Construct 3DMRI]&Validation Strategy:  https://www.kaggle.com/code/abireltaief/uw-madison-01-construct-3dmri-validation-strgy
- ⚕️UW-02Preprocess[3D masks]HugeOverlappingPixels!!: https://www.kaggle.com/code/abireltaief/uw-02preprocess-3d-masks-hugeoverlappingpixels
- 💉UW-03_3DNorm &Pytorch Datast& Oversampling Idea: https://www.kaggle.com/code/abireltaief/uw-03-3dnorm-pytorch-datast-oversampling-idea
+  - ⚕️UW-Madison_01[Construct 3DMRI]&Validation Strategy:  https://www.kaggle.com/code/abireltaief/uw-madison-01-construct-3dmri-validation-strgy
+  - ⚕️UW-02Preprocess[3D masks]HugeOverlappingPixels!!: https://www.kaggle.com/code/abireltaief/uw-02preprocess-3d-masks-hugeoverlappingpixels
+  - 💉UW-03_3DNorm &Pytorch Datast& Oversampling Idea: https://www.kaggle.com/code/abireltaief/uw-03-3dnorm-pytorch-datast-oversampling-idea
+ 
+
+ 
   
   
